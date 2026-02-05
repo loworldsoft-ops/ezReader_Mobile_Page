@@ -1,0 +1,1 @@
+import{c as a,d as b}from"./chunk-UHJNYZ6L.js";import"./chunk-U4UFIJYK.js";import"./chunk-JUEEVBHS.js";import"./chunk-OSMDERGS.js";import"./chunk-Z3DCBRW4.js";import"./chunk-TWZW5B45.js";b();export{a as BackNavigationService};
